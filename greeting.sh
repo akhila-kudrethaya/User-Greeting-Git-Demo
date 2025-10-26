@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-
+#Prints Hello World
 echo "Hello World!" 
 
 
@@ -13,3 +13,12 @@ read name
 #Greets the user with name that has been read 
 echo "Hello! Nice to meet you, $name!"
 
+#Asks user for age
+echo "How old are you, $name? "
+
+#reads user age
+read age
+
+echo "Hi $name, you are $age years old! That is nice!"
+
+#End of Script
