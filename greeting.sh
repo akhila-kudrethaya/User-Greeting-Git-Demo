@@ -21,4 +21,6 @@ read age
 
 echo "Hi $name, you are $age years old! That is nice!"
 
+
+# Adding sample script for rebase example.
 #End of Script
