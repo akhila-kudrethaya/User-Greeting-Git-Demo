@@ -26,5 +26,9 @@ read age
 echo "Hi $name, you are $age years old! That is nice!"
 
 
+
 # Adding sample script for rebase example.
+
+# Sample Script addition to demonstrate the git merge, git cherry-pick, and git rebase examples
+
 #End of Script
