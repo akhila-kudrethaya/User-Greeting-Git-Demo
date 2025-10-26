@@ -21,4 +21,12 @@ read age
 
 echo "Hi $name, you are $age years old! That is nice!"
 
+
+#ask user for hometown
+echo "Where are you from? "
+
+#take users answer for hometwon
+read town
+
+echo "Wow, $town is definitely a beautiful place!"
 #End of Script
